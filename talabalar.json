@@ -1,0 +1,5 @@
+[
+    {"ism": "Ali", "familiya": "Karimov", "kurs": 2, "fakultet": "IT"},
+    {"ism": "Hasan", "familiya": "Husanov", "kurs": 1, "fakultet": "Fizika"},
+    {"ism": "Gulbahor", "familiya": "Rasulova", "kurs": 3, "fakultet": "Matematika"}
+]
